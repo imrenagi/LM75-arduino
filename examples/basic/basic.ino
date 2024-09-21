@@ -1,6 +1,6 @@
 #include <lm75.h>
 
-Concreate_LM75 temperature;
+Concrete_LM75 temperature;
 
 void setup() {
   while(!Serial) {}
